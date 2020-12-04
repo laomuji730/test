@@ -1,1 +1,2 @@
 today is the first day to study the git.
+Git is a distributed version control system.
